@@ -1,0 +1,25 @@
+{
+    "startEpoch": 1752033011,
+    "startTime": "2025-07-09 03:50:11",
+    "sessionName": "PDTEST_VSYNC",
+    "os": "Windows 11  (10.0.26100) 64bit",
+    "gpu": "Qualcomm(R) Adreno(TM) X1-85 GPU",
+    "unityVersion": "2020.3.40f1",
+    "displayRefresh": 60,
+    "targetFrameRate": 60,
+    "gitCommit": "",
+    "fileHashes": [
+        {
+            "fileName": "TrialManagerDMS_CODE.txt",
+            "hash": "251830efd7342f86aa3818f2b95475a8338bf0c0f5a22daae5ff80de52adea47"
+        },
+        {
+            "fileName": "DMS_Trial_Def.csv",
+            "hash": "c8baea96660adc28ee321da43b523ffc8d9844d201ec4d2abbdc82352d128bf3"
+        },
+        {
+            "fileName": "DMS_Stim_Index.csv",
+            "hash": "d90bc3b0810c48019b436c6cc296cdacad4b971e16b9a71e64202121b80a8c60"
+        }
+    ]
+}
