@@ -8,3 +8,6 @@ www.github.com/kylecoutray/NERV
 Try the NERV System:
 A compiled version with sample test games is available at:
 www.nervframework.com
+
+Read the paper here:
+https://www.sciencedirect.com/science/article/pii/S0165027025002912
